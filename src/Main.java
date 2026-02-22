@@ -17,3 +17,5 @@ public class Main {
         }
       }
     }
+//Actualizacion del sistema
+//Se agregaron getters, setters y validacion de edad
